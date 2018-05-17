@@ -25,3 +25,5 @@ hs_err_pid*
 /JavaApplicationSocket/nbproject/private/
 /JavaApplicationSocketServer/nbproject/private/
 /JASDateHour/nbproject/private/
+/build/
+/dist/
